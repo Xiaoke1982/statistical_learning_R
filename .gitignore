@@ -1,0 +1,22 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.rds
+
+# Cache files and folders
+.Rbuildignore
+__pycache__/
+*.o
+*.so
+*.dylib
+*.dll
